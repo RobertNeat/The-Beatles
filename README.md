@@ -18,7 +18,7 @@ If you have difficulty running program after compilation i reccomend running `ex
 ## How to uninstall?
 ___
 To uninstall just run `make clean` - this removes compiled instances and leaves original code.
-
+ 
 <!--https://banner.godori.dev/ height:150-->
 <!--https://shields.io/-->
 <!--https://carbon.now.sh/-->
